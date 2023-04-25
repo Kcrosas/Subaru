@@ -2,7 +2,7 @@
 
 1. Make sure your vehicle is parked in an area that can safely have its engine on for at least 1.5 hours 
 2. Read Subaru's documentation on the update installation and change documentation
-3. Review user experience on the new update such as on Subaru forums and subreddits. 
+3. Review user experience on the new update such as on Subaru forums and subreddits (I intentionally waited for a month to past so I can do this with enough user experience posts/comments regarding the update). 
 4. Determine whether the update is mandatory or optional in terms of system stability, security, and general changes.
 5. Acknowledge the projected downtime and allot double the amount of time. (In a regular office environment, you would do something similar but also coordinate with the office staff so as to affect the least amount of employees) 
 6. Document your car's current software version and model/trim/year.
